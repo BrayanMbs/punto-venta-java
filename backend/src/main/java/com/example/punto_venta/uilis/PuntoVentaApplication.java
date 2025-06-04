@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class puntoVentaApplication {
+public class PuntoVentaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(puntoVentaApplication.class, args);
-        System.out.println("Programa corriendo...");
+        SpringApplication.run(PuntoVentaApplication.class, args);
+        System.out.println("\u001B[32m" + "\n(NO ERROR), EL PROGRAMA ESTA CORRIENDO!" + "\u001B[0m");
     }
 }

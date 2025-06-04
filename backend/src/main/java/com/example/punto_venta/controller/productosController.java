@@ -1,5 +1,5 @@
 package com.example.punto_venta.controller;
-package com.example.punto_venta.controller;
+
 
 import com.example.punto_venta.entity.productos;
 import com.example.punto_venta.service.productosService;
