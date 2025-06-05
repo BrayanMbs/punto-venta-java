@@ -1,0 +1,7 @@
+# Correcta indentación (con espacios)
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5447/punto_venta
+    username: cmo
+    password: cmo
+    driver-class-name: org.postgresql.Driver
